@@ -1,0 +1,41 @@
+/* 
+  Localizables.strings
+  Prueba tecnica
+
+  Created by Javier Vazquez on 04/10/20.
+  Copyright © 2020 GDG UNAM. All rights reserved.
+*/
+
+//MARK: - Common
+
+"OK" = "Ok";
+"CANCEL" = "Cancelar";
+
+//MARK: - User Options
+
+"USER_OPTIONS_TITLE" = "Prueba";
+"CAMERA" = "Cámara";
+"PHOTO" = "Foto";
+"FULL_NAME" = "Nombre completo";
+"PHONE_NUMBER" = "Número telefónico";
+"BIRTHDATE" = "Fecha de nacimiento";
+"GENDER" = "Sexo";
+"FAVORITE_COLOR" = "Color favorito";
+"ERROR" = "Ocurrió un error";
+"CHOICE_OPTION" = "Debes elegir al menos una opción para continuar";
+
+//MARK: - Options Details
+
+"TAKE_PHOTO" = "Tomar foto";
+"CAMERA_UNAVAILABLE" = "La cámara no se encuentra disponible";
+"PHOTO_ERROR" = "Ocurrió un error";
+"CANT_GET_PHOTO" = "Al parecer no se pudo obetener la foto";
+"FEMALE" = "Femenino";
+"MALE" = "Masculino";
+
+//MARK: - Colors
+"RED" = "Rojo";
+"BLUE" = "Azul";
+"GREEN" = "Verde";
+"PINK" = "Rosa";
+"PURPLE" = "Morado";
